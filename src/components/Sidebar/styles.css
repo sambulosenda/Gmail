@@ -1,0 +1,14 @@
+.sidebar {
+  flex: 0.3;
+}
+.sidebar__compose {
+  margin-top: 15px !important;
+  margin-left: 10px !important;
+  border-radius: 30px !important;
+  margin-bottom: 16px !important;
+  padding: 15px !important;
+  color: gray !important;
+  text-transform: uppercase !important;
+  box-shadow: -1px 4px 5px -2px rgba(0, 0, 0, 0.75);
+
+}
